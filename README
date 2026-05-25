@@ -1,4 +1,4 @@
-Some simple File Watcher in C that tracks all events to files.
+Some simple File Watcher in C that tracks all file events.
 
 It's works, but it might be a little bit broken since it shows all events at the same time.
 I'll fix it sooner or later.
